@@ -6,13 +6,13 @@
 It's objective is to benefit those users in developing countries with no credit card  and mailing address information. 
 
 ### Technologies used
- Android studio
+   Android studio
  
- JAVA
+   JAVA
  
- XML
+   XML
  
- Firebase(Realtime database and Email authentication)
+   Firebase(Realtime database and Email authentication)
  
 
 

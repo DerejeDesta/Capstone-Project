@@ -1,5 +1,8 @@
 # Capstone-Project
 "Dera Gebeya", android ecommerce app
+ 
+"Dera Gebeya" is an android app that allow users in developing countries to order different kind of items online and they can pay the balance upon pickup from thier choice of nearby pickup location. 
+It's objective is to benefit those users in developing countries with no credit card  and mailing address information. 
 
 
 <table>
